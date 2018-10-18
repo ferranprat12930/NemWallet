@@ -1,0 +1,7 @@
+{
+  "name": "NemWallet",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
